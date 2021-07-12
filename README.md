@@ -2,7 +2,7 @@
 ## 安裝說明：
 ### 0.安裝 git ==> https://github.com/git-for-windows/git/releases/download/
 ### 1.使用 git-cmd 下載 scratch-gui 
-'git clone https://github.com/LLK/scratch-gui.git'
+<code>git clone https://github.com/LLK/scratch-gui.git</code>
 ### 2.install scratch-gui
 '''
 cd scratch-gui
