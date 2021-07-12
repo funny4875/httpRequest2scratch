@@ -4,18 +4,18 @@
 ### 1.使用 git-cmd 下載 scratch-gui 
 <code>git clone https://github.com/LLK/scratch-gui.git</code>
 ### 2.install scratch-gui
-'''
+<code>
 cd scratch-gui
 npm install
-'''
+</code>
 ### 3.使用 git-cmd 下載 httpRequest2scratch
 '''git clone https://github.com/funny4875/httpRequest2scratch.git'''
 
 ### 4.安裝 httpRequest2scratch
-'''
+<code>
 cd httpRequest2scratch
 ./install.sh
-'''
+</code>
 ## Licence
 
 -  is under [BSD 3-Clause License](./LICENSE.md), open source and freely available to anyone. You can use it at your classes, workshops. Commercial usage is also accepted. If you or your students created something cool using scratch3_httpRequest, please share it on SNS using hashtag **#scratch3_httpRequest** or let me know to any of these contacts.
