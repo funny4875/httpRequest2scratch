@@ -13,7 +13,8 @@ npm install
 
 ### 4.安裝 httpRequest2scratch
 <code>
-cd httpRequest2scratch
+#先把 install.sh 移到 scratch-gui 的根目錄中
+cp ./httpRequest2scratch ./install.sh
 ./install.sh
 </code>
 ## Licence
