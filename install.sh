@@ -6,7 +6,6 @@ EXTENSION_NAME=HttpRequest2scratch
 EXTENSION_ID=httpRequest2scratch
 COLLABORATOR=KY-Li
 EXTENSION_DESCRIPTION="scratch3 httpRequest Blocks."
-cd ../
 
 mkdir -p node_modules/scratch-vm/src/extensions/scratch3_${EXTENSION_ID}
 cp ${EXTENSION_ID}/scratch-vm/src/extensions/scratch3_${EXTENSION_ID}/index.js node_modules/scratch-vm/src/extensions/scratch3_${EXTENSION_ID}/
