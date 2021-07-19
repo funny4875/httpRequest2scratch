@@ -4,24 +4,24 @@
 ### 0.安裝 git ==> https://github.com/git-for-windows/git/releases/download/
 
 ### 1.使用 git-cmd 下載 scratch-gui 
-
-####  git clone https://github.com/LLK/scratch-gui.git
-
+```
+git clone https://github.com/LLK/scratch-gui.git
+```
 ### 2.install scratch-gui
-
-####  cd scratch-gui<br>
-####  npm install<br>
-
-
+```
+cd scratch-gui<br>
+npm install<br>
+```
 ### 3.使用 git-cmd 下載 httpRequest2scratch
-#### git clone https://github.com/funny4875/httpRequest2scratch.git
-
+```
+git clone https://github.com/funny4875/httpRequest2scratch.git
+```
 ### 4.安裝 httpRequest2scratch
-
-####  先把 install.sh 移到 scratch-gui 的根目錄中
-####  cp ./httpRequest2scratch ./install.sh</br>
-####  ./install.sh</br>
-
+```
+#先把 install.sh 移到 scratch-gui 的根目錄中
+cp ./httpRequest2scratch ./install.sh</br>
+./install.sh</br>
+```
 
 ## Licence
 
